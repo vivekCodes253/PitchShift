@@ -257,9 +257,13 @@ class PitchShift
 
         if(args.length == 0)
             inputinterface();
-        else
+        else if(args.length == 1)
         {
             execute(fileread(args[0]),getUserDataInt("\nShift by : "));
+        }
+        else if(args.length == 2)
+        {
+            execute(fileread(args[0]),Integer.valueOf(args[1]));
         }
 
         

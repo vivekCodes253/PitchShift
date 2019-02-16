@@ -1,17 +1,144 @@
-Intro 								|| = 4 counts
-| F#m | | D | E | x 2
+|B F#/Bb|Abm E|B F#/Bb|Abm E|
+|F#|F#|F#|Em|
+|B|F#m|B|E|F#m|Em|
 
-Intro with percussion
-| F#m | | D | E |
+|B|E|B|F#m|
+|B|F#|B|F#|
+|B|E|B|F#m|
 
-Ghar Aaja
-| D | F#m | E | D |
 
-Instrumental 
-| F#m | | D | E | x 2
 
-Verse
-| F#m | | D | E | x 3
+Poo Pookum Osai
 
-Ghar Aaja
-| D | F#m | E | D |
+(C# power chord)
+
+|B E|C# F#|B E|C# F#|
+|B E|C# F#|B E|C# F#|
+|B E|B E|B E|F#m|
+|B E|B E|B E|F#m|
+|E|F#m|E|F#m|A|A|
+
+|B A|B A|B A|E F#m|
+|B A|B A|B A|E F#m|
+
+
+Ooh Lala la
+
+|E|F#m|E|B|
+|E|F#m|E|B|
+|F#|Bm|F#|Bm|
+|B B/Db| B/Eb B/E|F# Abm|E F#|
+
+|B B/Eb|E F#m|B B/Eb|E F#m|
+
+|B , , Em|B , , Em|B , , Em|G F#|
+(BassLine)|B Db D E|B Db D E|B Db D E|G G F# F#|
+|B , , Em|B , , Em|B , , Em|G F#|
+(BassLine)|B Db D E|B Db D E|B Db D E|G G F# F#|
+|B , , Em|B , , Em|B , , Em|G F#|
+(BassLine)|B Db D E|B Db D E|B Db D E|G G F# F#|
+|B , , Em|B , , Em|B , , Em|G F#|
+(BassLine)|B Db D E|B Db D E|B Db D E|G G F# F#|
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
+
+(Capo 2)
+
+Konjum Mainaakale
+
+|A E/Ab|6m D|A E/Ab|6m D|
+|E|E|E|Dm|
+|A|Em|A|D|Em|Dm|
+
+|A|D|A|Em|
+|A|E|A|E|
+|A|D|A|Em|
+
+
+
+Poo Pookum Osai
+
+(D power chord)
+
+|A D|D E|A D|D E|
+|A D|D E|A D|D E|
+|A D|A D|A D|Em|
+|A D|A D|A D|Em|
+|D|Em|D|Em|G|G|
+
+|A G|A G|A G|D Em|
+|A G|A G|A G|D Em|
+
+
+Ooh Lala la
+
+|D|Em|D|A|
+|D|Em|D|A|
+|E|Am|E|Am|
+|A A/B| A/Db A/D|E 6m|D E|
+
+|A A/Db|D Em|A A/Db|D Em|
+
+|A , , Dm|A , , Dm|A , , Dm|F E|
+(BassLine)|A B C D|A B C D|A B C D|F F E E|
+|A , , Dm|A , , Dm|A , , Dm|F E|
+(BassLine)|A B C D|A B C D|A B C D|F F E E|
+|A , , Dm|A , , Dm|A , , Dm|F E|
+(BassLine)|A B C D|A B C D|A B C D|F F E E|
+|A , , Dm|A , , Dm|A , , Dm|F E|
+(BassLine)|A B C D|A B C D|A B C D|F F E E|
+
+
+--------------------------------------------------------------------
+
+
+
+Konjum Mainaakale
+
+|1 5/1b|6m 4|1 5/1b|6m 4|
+|5|5|5|4m|
+|1|5m|1|4|5m|4m|
+
+|1|4|1|5m|
+|1|5|1|5|
+|1|4|1|5m|
+
+
+
+Poo Pookum Osai
+
+(3 power chord)
+
+|1 4|3 5|1 4|3 5|
+|1 4|3 5|1 4|3 5|
+|1 4|1 4|1 4|5m|
+|1 4|1 4|1 4|5m|
+|4|5m|4|5m|7b|7b|
+
+|1 7b|1 7b|1 7b|4 5m|
+|1 7b|1 7b|1 7b|4 5m|
+
+
+Ooh Lala la
+
+|4|5m|4|1|
+|4|5m|4|1|
+|5|1m|5|1m|
+|1 1/2| 1/4b 1/4|5 6m|4 5|
+
+|1 1/4b|4 5m|1 1/4b|4 5m|
+
+|1 , , 4m|1 , , 4m|1 , , 4m|6b 5|
+(BassLine)|1 2 3b 4|1 2 3b 4|1 2 3b 4|6b 6b 5 5|
+|1 , , 4m|1 , , 4m|1 , , 4m|6b 5|
+(BassLine)|1 2 3b 4|1 2 3b 4|1 2 3b 4|6b 6b 5 5|
+|1 , , 4m|1 , , 4m|1 , , 4m|6b 5|
+(BassLine)|1 2 3b 4|1 2 3b 4|1 2 3b 4|6b 6b 5 5|
+|1 , , 4m|1 , , 4m|1 , , 4m|6b 5|
+(BassLine)|1 2 3b 4|1 2 3b 4|1 2 3b 4|6b 6b 5 5|
