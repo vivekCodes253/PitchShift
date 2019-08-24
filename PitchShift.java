@@ -3,7 +3,7 @@ import java.io.*;
 
 class PitchShift
 {
-    public static String fp;
+    public static String filePath;
 
     /*Function Name : sop
     Purpose         : Simplifies System.out.print()
@@ -125,7 +125,7 @@ class PitchShift
         return false;
     }
 
-    public static int getpos(String[] data, char value)
+    public static int getPosition(String[] data, char value)
     {
         String tofind =""+value;
         int i;
@@ -137,7 +137,7 @@ class PitchShift
 
         return -1;
     }
-    public static String pitchconv(String data, int count)
+    public static String pitchConvert(String data, int count)
     {
 
         String[] notes = {"C","Db","D","Eb","E","F","Gb","G","Ab","A","Bb","B"};
@@ -149,7 +149,7 @@ class PitchShift
             val = data.charAt(i);
             if(contains(notes,val+""))
             {
-                pos = getpos(notes,val);
+                pos = getPosition(notes,val);
                 if(i!=data.length()-1 && data.charAt(i+1) == 'b')
                 {
                     pos = pos -1;
@@ -173,7 +173,7 @@ class PitchShift
         {
             sop("\nEnter data : ");
             String data = sc.nextLine();
-            sop("\n"+pitchconv(data,12));
+            sop("\n"+pitchConvert(data,12));
 
         }
     }
@@ -182,7 +182,7 @@ class PitchShift
     Purpose         : Accepts user input of data or lets user select file
     Input           : 
     Return          :     */
-    public static void inputinterface()
+    public static void inputInterface()
     {
         boolean status = true;
         while(status)
@@ -226,7 +226,7 @@ class PitchShift
         {
             if(i!=len-1 && (data.charAt(i+1)=='#'))
             {
-                String val = pitchconv(data.charAt(i)+"",1);
+                String val = pitchConvert(data.charAt(i)+"",1);
                 return_data += (val);
                 i++;
             }
@@ -246,7 +246,7 @@ class PitchShift
     public static void execute(String data, int shift)
     {
         data = preprocess(data);
-        sop(pitchconv(data,shift)+ "\n");
+        sop(pitchConvert(data,shift)+ "\n");
     }
 
     
@@ -256,7 +256,7 @@ class PitchShift
     {
 
         if(args.length == 0)
-            inputinterface();
+            inputInterface();
         else if(args.length == 1)
         {
             execute(fileread(args[0]),getUserDataInt("\nShift by : "));
@@ -266,17 +266,6 @@ class PitchShift
             execute(fileread(args[0]),Integer.valueOf(args[1]));
         }
 
-        
-
-        //sop(preprocess("A# B D# F G"));
-       // fp = args[0];
-        //String data = fileread(fp);
-
-        //test();
-        //Need to pre process for # signs, maybe give user a choice for # and flat 
-        //test2();
-
-        
-        
+             
     }
 }
